@@ -1,0 +1,26 @@
+Blockchain Day 1
+Assignment 1
+Name : Sagar Shah
+Email  : shahsagu787@gmail.com
+
+1. What is your understanding of Blockchain?
+Answer: Blockchain is linked list which is use to avoid hacking, gives more security to the data, gives data transparency and removes decentralization.
+
+2. What is the core problem Blockchain trying to solve?
+Answer: Blockchain is basically responsible for removing problem of authenticity, security, and third party problem. Blockchain is a procedure to remove this issue and make the database more secure.
+
+3. What are the few features which Blockchain will give you?
+Answer: Blockchain will give the following features-
+Unchangeable
+Temper-proof
+Verifiable
+
+4. What all things does a block contain?
+Answer: A block in the Blockchain contains the following things-
+Block number
+Transaction records
+Previous block signature
+Mining key
+
+5. How is the verifiability of Blockchain has been achieved?
+Answer: Verifiability of Blockchain can be achieved by sharing the fingerprint of the data in a server and comparing the fingerprint of all other servers with it. This can be done on a regular basis like say every 10 seconds. This is how the data can be verified. 
